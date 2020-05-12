@@ -9,6 +9,15 @@ When you scroll to the top, the sticky header is reset, so you need to scroll do
 [View the demo video](https://youtu.be/wV0j4JhSk38)
 
 
+## Distribution
+
+The following command bundles the Chrome extension:
+
+```sh
+./bundle.sh
+```
+
+
 ## Changelog
 
 | Version | Changes           |
