@@ -10,6 +10,9 @@
       "js": ["./stickier-header-confluence.js"]
     }
   ],
+  "icons": {
+    "128": "icon.png"
+  },
   "permissions": [
     "activeTab"
   ]
