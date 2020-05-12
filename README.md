@@ -2,7 +2,7 @@
 
 > because the Confluence sticky header isn't sticky enough 🩹🩹
 
-<img src="icon.png" style="width: 128px;" />
+<img src="icon.png" style="max-width: 128px;" width="128" />
 
 This Chrome extension tries to make the Confluence experience better by disabling the sticky header "feature." It's a bit janky but works. 🤷🏻‍♀️
 
