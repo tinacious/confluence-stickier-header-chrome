@@ -1,8 +1,8 @@
 # Confluence stickier header Chrome extension
 
-![Confluence logo with a bandage emoji stuck to it](icon.png)
-
 > because the Confluence sticky header isn't sticky enough 🩹🩹
+
+<img src="icon.png" style="width: 128px;" />
 
 This Chrome extension tries to make the Confluence experience better by disabling the sticky header "feature." It's a bit janky but works. 🤷🏻‍♀️
 
