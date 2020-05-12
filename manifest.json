@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Confluence stickier header",
+  "author": "Tina Holly (info@tinaciousdesign.com)",
+  "version": "0.0.1",
+  "description": "because the Confluence sticky header isn't sticky enough",
+  "content_scripts": [
+    {
+      "matches": ["https://*.atlassian.net/wiki/*"],
+      "js": ["./stickier-header-confluence.js"]
+    }
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
