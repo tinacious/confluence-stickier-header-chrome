@@ -11,10 +11,17 @@ When you scroll to the top, the sticky header is reset, so you need to scroll do
 [View the demo video](https://youtu.be/wV0j4JhSk38)
 
 
+## Installation
+
+1. Open Chrome's Extension management page
+2. Turn on Developer Mode at the top right if it isn't on already
+3. Click "Load unpacked extension"
+4. Find this directory and load it in. The root of the directory needs to have the `manifest.json` file
+
 
 ## Distribution
 
-The following command bundles the Chrome extension:
+The following command bundles the Chrome extension and includes only the necessary files for distribution:
 
 ```sh
 ./bundle.sh
