@@ -10,6 +10,8 @@ When you scroll to the top, the sticky header is reset, so you need to scroll do
 
 [View the demo video](https://youtu.be/wV0j4JhSk38)
 
+![](screenshot.png)
+
 
 ## Installation
 
