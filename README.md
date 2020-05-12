@@ -13,10 +13,11 @@ When you scroll to the top, the sticky header is reset, so you need to scroll do
 
 ## Installation
 
-1. Open Chrome's Extension management page
-2. Turn on Developer Mode at the top right if it isn't on already
-3. Click "Load unpacked extension"
-4. Find this directory and load it in. The root of the directory needs to have the `manifest.json` file
+1. Download the source code by clicking the Download button at the top right
+2. Open Chrome's Extension management page
+3. Turn on Developer Mode at the top right if it isn't on already
+4. Click "Load unpacked extension"
+5. Find this directory and load it in. The root of the directory needs to have the `manifest.json` file
 
 
 ## Distribution
