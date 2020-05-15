@@ -12,8 +12,5 @@
   ],
   "icons": {
     "128": "icon.png"
-  },
-  "permissions": [
-    "activeTab"
-  ]
+  }
 }
